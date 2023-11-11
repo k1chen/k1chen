@@ -6,6 +6,6 @@ I'm Kenneth, a student at Boston College currently studying computer science. My
 
 📧[Email](mailto:chenaun@bc.edu) <br>
 
-![](https://github-readme-stats.vercel.app/api?username=k1chen&show_icons=true&theme=default#gh-light-mode-only)
+
 
 
